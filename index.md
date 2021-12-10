@@ -9,13 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 プライバシポリシー
+
 [利用者情報の取得]
 本アプリが利用者の個人情報を取得することはありません。
 
@@ -30,15 +26,6 @@ Syntax highlighted code block
 AdMobが利用者の情報を自動取得する場合があります。取得する情報、利用目的、第三者への提供等につきましては、
 広告配信事業者のアプリケーション、プライバシポリシーよりご確認ください。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
